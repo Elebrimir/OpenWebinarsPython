@@ -1,0 +1,2 @@
+# OpenWebinarsPython
+Exercicis de OpenWebinars
